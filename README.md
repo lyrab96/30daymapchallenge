@@ -20,4 +20,6 @@ Cycle Routes: City of London
 
 Data from the Transport for London Cycling Infrastructure Database (using {CycleInfraLnd} https://github.com/PublicHealthDataGeek/CycleInfraLnd)
 
+**3. Polygons**
 
+<img width="850" alt="polygons" src="https://user-images.githubusercontent.com/48390902/199845259-0b2fe680-2961-43e8-a7b0-7c8a0803000c.png">
